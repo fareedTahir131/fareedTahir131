@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fareedTahir131
 - 👀 I’m interested in XR Industry 🥽
-- 🌱 I’m currently learning Unity ✨
+- 🌱 I’m currently working on Unity3D ✨
 - 💞️ I’m looking to collaborate on XR based Projects. 
 - 📫 How to reach me fareedtahir131@gmail.com
 <!---
