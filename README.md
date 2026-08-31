@@ -20,12 +20,12 @@ I specialize in cross-platform spatial computing, high-performance WebGL/WebXR, 
 - 🔭 **Architecting:** Production-ready WebGL 3D configurators and spatial computer vision engines.
 - 💬 **Collaborating On:** High-impact XR applications, WebAR/WebXR solutions, and enterprise 3D architectures.
 - 📫 **Contact:** fareedtahir131@gmail.com
-- 🌐 **Portfolio:** [eggystudio.com](https://eggystudio.com)
+- 🌐 **Portfolio:** [fareedtahir131.com](https://fareedtahir131)
 
 ---
 
 <p align="left">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+  <a href="https://www.linkedin.com/in/fareedtahir131/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
