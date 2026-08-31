@@ -20,7 +20,7 @@ I specialize in cross-platform spatial computing, high-performance WebGL/WebXR, 
 - 🔭 **Architecting:** Production-ready WebGL 3D configurators and spatial computer vision engines.
 - 💬 **Collaborating On:** High-impact XR applications, WebAR/WebXR solutions, and enterprise 3D architectures.
 - 📫 **Contact:** fareedtahir131@gmail.com
-- 🌐 **Portfolio:** [fareedtahir131.com](https://fareedtahir131)
+- 🌐 **Portfolio:** [fareedtahir131.com](https://fareedtahir131.com/)
 
 ---
 
